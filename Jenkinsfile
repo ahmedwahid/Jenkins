@@ -11,7 +11,7 @@ pipeline{
 		stage('Build') {
 
 			steps {
-				sh 'docker build -t ahmedwahid/my-app .' 
+				sh 'docker build -t ahmedwahid/my-app:v1 .' 
 			}
 		}
 
@@ -25,7 +25,7 @@ pipeline{
 		stage('Push') {
 
 			steps {
-				sh 'docker push ahmedwahid/my-app' 
+				sh 'docker push ahmedwahid/my-app:v1' 
 			}
 		}
 	}
