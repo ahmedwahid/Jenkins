@@ -12,7 +12,7 @@
 ~H
 # Command Line History (newest to oldest):
 :wq
-|2,0,1671212862,,"wq"
+|2,0,1671213064,,"wq"
 :q!
 |2,0,1671204558,,"q!"
 :q1
@@ -31,28 +31,32 @@
 # Registers:
 
 # File marks:
-'0  14  43  ~/Jenkinsfile
-|4,48,14,43,1671212862,"~/Jenkinsfile"
-'1  28  38  ~/Jenkinsfile
-|4,49,28,38,1671204618,"~/Jenkinsfile"
-'2  28  38  ~/Jenkinsfile
-|4,50,28,38,1671204618,"~/Jenkinsfile"
-'3  1  13  ~/Dockerfile
-|4,51,1,13,1671204558,"~/Dockerfile"
-'4  1  41  ~/public-html/index.html
-|4,52,1,41,1671204034,"~/public-html/index.html"
-'5  28  36  ~/Jenkinsfile
-|4,53,28,36,1671203814,"~/Jenkinsfile"
-'6  28  36  ~/Jenkinsfile
-|4,54,28,36,1671203814,"~/Jenkinsfile"
-'7  28  36  ~/Jenkinsfile
-|4,55,28,36,1671203677,"~/Jenkinsfile"
+'0  28  39  ~/Jenkinsfile
+|4,48,28,39,1671213064,"~/Jenkinsfile"
+'1  14  43  ~/Jenkinsfile
+|4,49,14,43,1671212862,"~/Jenkinsfile"
+'2  14  43  ~/Jenkinsfile
+|4,50,14,43,1671212862,"~/Jenkinsfile"
+'3  28  38  ~/Jenkinsfile
+|4,51,28,38,1671204618,"~/Jenkinsfile"
+'4  28  38  ~/Jenkinsfile
+|4,52,28,38,1671204618,"~/Jenkinsfile"
+'5  28  38  ~/Jenkinsfile
+|4,53,28,38,1671204618,"~/Jenkinsfile"
+'6  1  13  ~/Dockerfile
+|4,54,1,13,1671204558,"~/Dockerfile"
+'7  1  41  ~/public-html/index.html
+|4,55,1,41,1671204034,"~/public-html/index.html"
 '8  28  36  ~/Jenkinsfile
-|4,56,28,36,1671203677,"~/Jenkinsfile"
+|4,56,28,36,1671203814,"~/Jenkinsfile"
 '9  28  36  ~/Jenkinsfile
-|4,57,28,36,1671203677,"~/Jenkinsfile"
+|4,57,28,36,1671203814,"~/Jenkinsfile"
 
 # Jumplist (newest first):
+-'  28  39  ~/Jenkinsfile
+|4,39,28,39,1671213064,"~/Jenkinsfile"
+-'  14  43  ~/Jenkinsfile
+|4,39,14,43,1671213045,"~/Jenkinsfile"
 -'  14  43  ~/Jenkinsfile
 |4,39,14,43,1671212862,"~/Jenkinsfile"
 -'  28  38  ~/Jenkinsfile
@@ -67,6 +71,30 @@
 |4,39,1,13,1671204558,"~/Dockerfile"
 -'  1  13  ~/Dockerfile
 |4,39,1,13,1671204558,"~/Dockerfile"
+-'  1  13  ~/Dockerfile
+|4,39,1,13,1671204558,"~/Dockerfile"
+-'  1  13  ~/Dockerfile
+|4,39,1,13,1671204558,"~/Dockerfile"
+-'  1  13  ~/Dockerfile
+|4,39,1,13,1671204558,"~/Dockerfile"
+-'  1  13  ~/Dockerfile
+|4,39,1,13,1671204558,"~/Dockerfile"
+-'  1  41  ~/public-html/index.html
+|4,39,1,41,1671204034,"~/public-html/index.html"
+-'  1  41  ~/public-html/index.html
+|4,39,1,41,1671204034,"~/public-html/index.html"
+-'  1  41  ~/public-html/index.html
+|4,39,1,41,1671204034,"~/public-html/index.html"
+-'  1  41  ~/public-html/index.html
+|4,39,1,41,1671204034,"~/public-html/index.html"
+-'  1  41  ~/public-html/index.html
+|4,39,1,41,1671204034,"~/public-html/index.html"
+-'  1  41  ~/public-html/index.html
+|4,39,1,41,1671204034,"~/public-html/index.html"
+-'  1  41  ~/public-html/index.html
+|4,39,1,41,1671204034,"~/public-html/index.html"
+-'  1  41  ~/public-html/index.html
+|4,39,1,41,1671204034,"~/public-html/index.html"
 -'  1  41  ~/public-html/index.html
 |4,39,1,41,1671204034,"~/public-html/index.html"
 -'  1  41  ~/public-html/index.html
@@ -119,6 +147,48 @@
 |4,39,1,0,1671203579,"~/Jenkinsfile"
 -'  1  0  ~/Jenkinsfile
 |4,39,1,0,1671203579,"~/Jenkinsfile"
+-'  1  0  ~/Jenkinsfile
+|4,39,1,0,1671203579,"~/Jenkinsfile"
+-'  1  13  ~/Dockerfile
+|4,39,1,13,1671203557,"~/Dockerfile"
+-'  1  13  ~/Dockerfile
+|4,39,1,13,1671203557,"~/Dockerfile"
+-'  1  13  ~/Dockerfile
+|4,39,1,13,1671203557,"~/Dockerfile"
+-'  1  13  ~/Dockerfile
+|4,39,1,13,1671203557,"~/Dockerfile"
+-'  1  13  ~/Dockerfile
+|4,39,1,13,1671203557,"~/Dockerfile"
+-'  1  13  ~/Dockerfile
+|4,39,1,13,1671203557,"~/Dockerfile"
+-'  1  13  ~/Dockerfile
+|4,39,1,13,1671203557,"~/Dockerfile"
+-'  1  13  ~/Dockerfile
+|4,39,1,13,1671203557,"~/Dockerfile"
+-'  1  13  ~/Dockerfile
+|4,39,1,13,1671203557,"~/Dockerfile"
+-'  1  13  ~/Dockerfile
+|4,39,1,13,1671203557,"~/Dockerfile"
+-'  1  13  ~/Dockerfile
+|4,39,1,13,1671203557,"~/Dockerfile"
+-'  1  13  ~/Dockerfile
+|4,39,1,13,1671203557,"~/Dockerfile"
+-'  1  13  ~/Dockerfile
+|4,39,1,13,1671203557,"~/Dockerfile"
+-'  1  13  ~/Dockerfile
+|4,39,1,13,1671203557,"~/Dockerfile"
+-'  1  13  ~/Dockerfile
+|4,39,1,13,1671203557,"~/Dockerfile"
+-'  1  13  ~/Dockerfile
+|4,39,1,13,1671203557,"~/Dockerfile"
+-'  1  13  ~/Dockerfile
+|4,39,1,13,1671203557,"~/Dockerfile"
+-'  1  13  ~/Dockerfile
+|4,39,1,13,1671203557,"~/Dockerfile"
+-'  1  13  ~/Dockerfile
+|4,39,1,13,1671203557,"~/Dockerfile"
+-'  1  13  ~/Dockerfile
+|4,39,1,13,1671203557,"~/Dockerfile"
 -'  1  13  ~/Dockerfile
 |4,39,1,13,1671203557,"~/Dockerfile"
 -'  1  13  ~/Dockerfile
@@ -187,17 +257,18 @@
 # History of marks within files (newest to oldest):
 
 > ~/Jenkinsfile
-	*	1671212861	0
-	"	14	43
-	^	14	44
-	.	14	43
+	*	1671213064	0
+	"	28	39
+	^	28	40
+	.	28	39
 	+	39	1
 	+	14	40
 	+	28	36
 	+	6	48
 	+	14	45
 	+	28	39
-	+	14	43
+	+	14	44
+	+	28	39
 
 > ~/Dockerfile
 	*	1671204556	0
